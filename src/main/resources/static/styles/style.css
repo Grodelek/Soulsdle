@@ -27,3 +27,28 @@ html, body {
     margin: 0 auto;
     text-align: center;
 }
+.classic-button{
+    margin: 10px;
+    background-color: crimson;
+    border-radius: 5px;
+    border-color: black;
+    width:  140px;
+    height: 60px;
+}
+.classic-button:hover{
+    background-color: #571824;
+    width:  160px;
+    height: 65px;
+}
+.home-button{
+    margin: 10px;
+    background-color: crimson;
+    border-radius: 5px;
+    border-color: black;
+    width:  100px;
+    height: 40px;
+}
+.home-button:hover{
+    background-color: #571824;
+    width:  120px;
+    height: 50px;}
