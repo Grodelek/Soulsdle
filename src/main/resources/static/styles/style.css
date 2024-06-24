@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nanum Gothic", sans-serif;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+.background-photo{
+    height: 100%;
+    width: 100%;
+    background-image:url('/photos/background.png');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+.main-border{
+    background-color: rgba(23, 22, 22, 0.55);
+    height: 600px;
+    width: 500px;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
